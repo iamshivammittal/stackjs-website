@@ -15,7 +15,7 @@ Version 0.4
 
 Version 0.3
 -------------
-- add: local classses support (use LocalClass instead of Class)
+- add: local classes support (use LocalClass instead of Class)
 - fix: handle undefined parameters in addViews method
 - fix: handle undefined body element
 
